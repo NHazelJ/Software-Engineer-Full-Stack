@@ -56,8 +56,11 @@ a[href*="google"]{
     color: #1d3557;
 }
 
-/* button:hover{
+button:hover{
     background-color: lightgreen;
+}
+/* a:hover{
+    text-decoration: underline ;
 } */
 
 .post a:hover {
