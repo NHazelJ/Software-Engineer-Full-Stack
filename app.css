@@ -69,11 +69,11 @@ button:hover{
 
 
 .post button:active {
-    background-color: #02c39a;
+    background-color: blue ;
 }
 
 .post:nth-of-type(2n){
-    background-color: #dfe8dc;
+    background-color: #b4bdb1;
 }
 
 h2::first-letter {
