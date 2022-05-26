@@ -52,7 +52,7 @@ input[type="password"] {
     color: greenyellow;
 }
 
-a[href*="google"]{
+a[href*="google"]{ 
     color: #1d3557;
 }
 
