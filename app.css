@@ -78,6 +78,7 @@ button:hover{
 
 h2::first-letter {
     font-size: 50px;
+    color: red;
 }
 
 p::first-line {
