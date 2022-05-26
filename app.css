@@ -2,9 +2,9 @@
     background-color: cyan;
 } */
 
-body {
+/* body {
     background-color: #f1faee;
-}
+} */
 
 button {
     font-size: 30px;
@@ -73,7 +73,7 @@ button:hover{
 }
 
 .post:nth-of-type(2n){
-    background-color: #b4bdb1;
+    background-color: #4ae915;
 }
 
 h2::first-letter {
@@ -96,5 +96,5 @@ p::selection {
 
 
 /* button { */
-    /* background-color: magenta !important; */
-}
+    /* background-color: magenta !important;} */
+
