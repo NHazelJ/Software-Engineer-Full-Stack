@@ -14,10 +14,14 @@ h1{
     border-width: 5px ;
     border-color: black;
     border-style: solid;
+    /* box-sizing: border-box; */
 }
 
 #two{
     background-color:#b5838d;
+    border-color: #ffcdb2;
+    border-width: 3px;
+    border-style: dashed;
 }
 
 #three{
