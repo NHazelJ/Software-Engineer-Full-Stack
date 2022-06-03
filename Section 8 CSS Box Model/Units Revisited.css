@@ -1,0 +1,11 @@
+section{
+    background-color: #6d6875 ;
+    width: 800px;
+    height: 800px;
+}
+
+div{
+    background-color: #e5989b;
+    width: 100% ;
+    height: 20%;
+}
