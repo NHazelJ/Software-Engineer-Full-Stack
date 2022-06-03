@@ -7,6 +7,8 @@ div {
 h1{
     background-color:pink ;
     width: 100px;
+    padding-left: 30px;
+    padding-top: 100px;
 }
 
 #one{
@@ -23,6 +25,7 @@ h1{
     border-width: 3px;
     border-style: dashed;
     border-left-width: 8px;
+    padding-right: 50px;
 }
 
 #three{
