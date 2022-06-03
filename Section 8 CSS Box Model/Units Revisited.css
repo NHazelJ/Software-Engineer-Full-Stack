@@ -1,3 +1,7 @@
+html{
+    font-size: 30px;
+}
+
 section{
     background-color: #6d6875 ;
     width: 800px;
@@ -16,18 +20,18 @@ h1{
    line-height: 200%; 
 }
 
-h2{
+#ems h2{
     font-size: 2em;
     margin-left: 1em;
 }
-h3{
+#ems h3{
     font-size: 1.5em;
 }
-p{
+#ems p{
     font-size: 1em;
 }
-article{
-    font-size: 50px;
+#ems article{
+    font-size: 15px;
 }
 /* em always scale properly */
 button{
@@ -37,3 +41,21 @@ button{
     background-color: #2a9d8f;
     color: white;
 }
+
+ul{
+    font-size: 1.5em;
+}
+
+#rems h2{
+    font-size: 3rem;
+}
+#rems h3{
+    font-size: 2rem;
+}
+#rems ul{
+    font-size: 1.5rem;
+}
+#rems button{
+    font-size: 1.5rem;
+}
+/* rems it's easier to work with  */
