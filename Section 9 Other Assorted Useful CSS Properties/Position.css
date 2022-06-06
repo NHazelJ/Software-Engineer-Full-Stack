@@ -33,7 +33,11 @@ div{
     left: 50px;
 }
 
-
+#fixed #middle{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
 
 
 
