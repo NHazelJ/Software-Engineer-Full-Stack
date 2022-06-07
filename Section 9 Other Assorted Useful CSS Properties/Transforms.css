@@ -6,7 +6,7 @@ h1{
     width: 300px;
     font-size: 1.8em;
     text-align: center;
-    margin: 20px;
+    margin: 20px auto;
     font-family: Courier New;
     font-weight: lighter;
 }
