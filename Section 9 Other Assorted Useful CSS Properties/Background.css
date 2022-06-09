@@ -1,0 +1,11 @@
+section{
+    width: 80%;
+    height: 800px;
+    background-color: purple;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}
