@@ -9,7 +9,7 @@ main {
 
 h1{
     font-size: 3rem;
-    /* removing bottom margin */
+    /* removing bottom margin to make them closer*/
     margin-bottom: 0;
 }
     
