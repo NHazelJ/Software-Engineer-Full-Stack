@@ -144,4 +144,12 @@ body{
     .panel{
         flex-direction: row;
     }
+    .pricing-plan{
+        border-bottom: none;
+        border-right: 1px solid #e1ffe1;
+        padding: 25px 50px;
+    }
+    .pricing-plan:last-child{
+        border-right: none;
+    }
 }
