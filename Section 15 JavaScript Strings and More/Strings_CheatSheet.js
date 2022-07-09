@@ -1,6 +1,8 @@
 // Making Strings
 let color = "purple";
 
+let color = "purple";
+
 // Single quotes work too:
 let city = 'Tokyo';
 
