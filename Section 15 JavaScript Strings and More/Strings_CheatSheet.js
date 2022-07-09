@@ -8,6 +8,8 @@ let city = 'Tokyo';
 
 //Strings have a length:
 city.length; //5
+// the lenght of the city above which was let city = 'tokyo'
+
 
 //We can access specific characters using their index:
 city[0]; //'T'
