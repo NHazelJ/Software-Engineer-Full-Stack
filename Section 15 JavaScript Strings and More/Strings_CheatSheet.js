@@ -14,6 +14,9 @@ city.length; //5
 //We can access specific characters using their index:
 city[0]; //'T'
 city[3]; //'y'
+// we are calling the index position on the word starting with 0
+
+
 
 // String methods:
 'hello'.toUpperCase(); // "HELLO";
