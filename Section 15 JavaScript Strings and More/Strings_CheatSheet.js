@@ -82,3 +82,13 @@ let qty = 5;
 
 //with string template literals will be 
 `You bought ${qty} ${product}. Total is: $${price * qty}`
+
+//Math Objects
+Math
+Math.PI
+Math.E
+
+Math.floor (23.99999) // round down 23
+Math.ceil (34.01) // round up 35
+
+
