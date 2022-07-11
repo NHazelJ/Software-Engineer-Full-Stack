@@ -31,6 +31,10 @@ msg.toUpperCase() //converting msg to all upper case
 let userInput = "  hello my name is tim tom tammy ping pong"
 userInput.trim() //removes all prior unnacessary spaces
 
+let greeting = "   hello again"
+greeting.trim().toUpperCase() //this will make both string methods actions to be applied
+
+
 // String methods with arguments:
 // ==============================
 
