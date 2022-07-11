@@ -91,4 +91,16 @@ Math.E
 Math.floor (23.99999) // round down 23
 Math.ceil (34.01) // round up 35
 
+Math.random () //will give us a random number from 0 to 0.99999999999999
+
+//Random integers - we have to create it
+const step1 = Math.random();
+const step 2 = step1 *10;
+const step3 = Math.floor(step2);
+const step4 = step3 + 1;
+
+Math.floor (Math.random()*100)+1; // creating a random number from 0 to 99 as a whole
+
+
+
 
