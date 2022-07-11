@@ -57,6 +57,10 @@ tvShow.indexOf('z'); // -1 (not found)
 // replace - returns a new string, with the FIRST match replaced
 "pump".replace("p", "b"); //"bump" - only replaces first "p"
 
+msg = "haha that is so funny!"
+msg.replace('haha', 'lololololol') // this will replace haha with lololololol
+//input are called argument that we put inside the parenthesis
+
 // String Template Literals
 // Use backtick characters, NOT SINGLE QUOTES!
 // ========================
