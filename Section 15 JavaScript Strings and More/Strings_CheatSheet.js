@@ -37,6 +37,11 @@ greeting.trim().toUpperCase() //this will make both string methods actions to be
 
 // String methods with arguments:
 // ==============================
+let tvShow = "catdog";
+tvShow.indexOf('cat'); // 0
+tvShow.indexOf('dog'); // 3
+tvShow.indexOf('z'); // -1 (not found)
+
 
 //indexOf returns the index where the character is found (or -1 if not found)
 'spider'.indexOf('i'); //2
