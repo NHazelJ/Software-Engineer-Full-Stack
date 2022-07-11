@@ -25,6 +25,12 @@ city[3]; //'y'
 let msg = "leave me alone right now i hate you plz"
 msg.toUpperCase() //converting msg to all upper case
 
+"LOLOLOLOLOL!!!!".toLowerCase() //Making LOL to lowercase lol
+
+
+let userInput = "  hello my name is tim tom tammy ping pong"
+userInput.trim() //removes all prior unnacessary spaces
+
 // String methods with arguments:
 // ==============================
 
