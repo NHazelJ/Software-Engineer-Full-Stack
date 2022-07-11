@@ -17,11 +17,13 @@ city[3]; //'y'
 // we are calling the index position on the word starting with 0
 
 
-
 // String methods:
 'hello'.toUpperCase(); // "HELLO";
 'LOL'.toLowerCase(); // "lol"
 '    omg  '.trim(); // "omg"
+
+let msg = "leave me alone right now i hate you plz"
+msg.toUpperCase() //converting msg to all upper case
 
 // String methods with arguments:
 // ==============================
