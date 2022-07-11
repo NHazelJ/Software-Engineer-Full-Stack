@@ -69,3 +69,12 @@ const msg = `My favorite color is: ${color}` //"My favorite color is: olive gree
 
 const str = `There are ${60 * 60 * 24} seconds in a day`//"There are 86400 seconds in a day"
 
+let product = 'Artichoke';
+let price = 3.99;
+price = 2.25;
+let qty = 5;
+
+"You bought " + qty + " " + product + ".Total is: " + price * qty // This will say "You bought 5 Artichoke. Total is: 11.25"
+
+
+
