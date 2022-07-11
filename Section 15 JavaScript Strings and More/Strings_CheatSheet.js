@@ -48,9 +48,11 @@ tvShow.indexOf('z'); // -1 (not found)
 'vesuvius'.indexOf('u'); //3 - only returns FIRST matching index
 'cactus'.indexOf('z'); //-1 not found
 
-// slice - returns a "slice" of a string
+// slice - returns a "slice" of a string - slice with a number in parenthesis
 "pancake".slice(3); //"cake" - slice from index 3 onwards
 "pancake".slice(0, 3); //"pan" - slice from index 0 up to index 3
+"pancake".slice(-1); // it will go backwards giving "e"
+
 
 // replace - returns a new string, with the FIRST match replaced
 "pump".replace("p", "b"); //"bump" - only replaces first "p"
