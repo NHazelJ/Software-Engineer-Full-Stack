@@ -1,4 +1,4 @@
-console.log("It's Working!!!")
+// console.log("It's Working!!!")
 
 // console.log("Before Conditional")
 
@@ -22,17 +22,17 @@ console.log("It's Working!!!")
 // PROMPT EXAMPLE
 // =====================
 
-const dayOfWeek = prompt('ENTER A DAY').toLowerCase();
+// const dayOfWeek = prompt("ENTER A DAY'").toLowerCase();
 
-if (dayOfWeek === 'Monday') {
-    console.log("UGHHH I HATE MONDAYS!")
-} else if (dayOfWeek === 'Saturday') {
-    console.log("YAY I LOVE SATURDAYS!")
-} else if (dayOfWeek === 'Friday') {
-    console.log("FRIDAYS ARE DECENT, ESPECIALLY AFTER WORK!")
-} else {
-    console.log("MEH")
-}
+// if (dayOfWeek === "monday") {
+//     console.log("UGHHH I HATE MONDAYS!")
+// } else if (dayOfWeek === "saturday") {
+//     console.log("YAY I LOVE SATURDAYS!")
+// } else if (dayOfWeek === "friday") {
+//     console.log("FRIDAYS ARE DECENT, ESPECIALLY AFTER WORK!")
+// } else {
+//     console.log("MEH")
+// }
 
 
 
@@ -45,17 +45,31 @@ if (dayOfWeek === 'Monday') {
 // 10 - 65 ADULT $20 
 // 65+ SENIOR $10
 
-// const age = 890;
+const age = 89;
 
-// if (age < 5) {
-//     console.log("You are a baby.  You get in for free!")
-// } else if (age < 10) {
-//     console.log("You are a child.  You pay $10")
-// } else if (age < 65) {
-//     console.log("You are an adult. You pay $20")
-// } else {
-//     console.log("You are a senior. You pay $10")
-// }
+if (age < 5) {
+    console.log("You are a baby.  You get in for free!")
+} else if (age < 10) {
+    console.log("You are a child.  You pay $10")
+} else if (age < 65) {
+    console.log("You are an adult. You pay $20")
+} else {
+    console.log("You are a senior. You pay $10")
+}
+
+// we can have if
+// if 
+// else
+
+// if 
+// else 
+// if
+
+// if 
+// else if
+// else if
+// else
+
 
 
 // =====================
