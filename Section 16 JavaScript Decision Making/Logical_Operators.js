@@ -1,12 +1,12 @@
 // =====================
 // LOGICAL AND OPERATOR
 // =====================
-const password = prompt("Enter your password");
-if (password.length >= 6 && password.indexOf(' ') === -1) {
-    console.log("VALID PASSWORD!")
-} else {
-    console.log("INCORRECT FORMAT FOR PASSWORD!")
-}
+// const password = prompt("Enter your password");
+// if (password.length >= 6 && password.indexOf(' ') === -1) {
+//     console.log("VALID PASSWORD!")
+// } else {
+//     console.log("INCORRECT FORMAT FOR PASSWORD!")
+// }
 
 // =====================
 // REVISITING AGE EXAMPLE
@@ -17,7 +17,7 @@ if (password.length >= 6 && password.indexOf(' ') === -1) {
 // 10-65 $20
 // 65+ free
 
-// const age = 100;
+// const age = 11;
 // if ((age >= 0 && age < 5) || age >= 65) {
 //     console.log("FREE");
 // } else if (age >= 5 && age < 10) {
@@ -36,10 +36,12 @@ if (password.length >= 6 && password.indexOf(' ') === -1) {
 // =====================
 // COMBINING && and ||
 // =====================
-// const age = 8;
-// if (!(age >= 0 && age < 5 || age >= 65)) {
-//     console.log("YOU ARE NOT A BABY OR A SENIOR!")
+const age = 48;
+if (!(age >= 0 && age < 5 || age >= 65)) {
+    console.log("YOU ARE NOT A BABY OR A SENIOR!")
 }
+
+// the whole expression will flip
 
 
 
