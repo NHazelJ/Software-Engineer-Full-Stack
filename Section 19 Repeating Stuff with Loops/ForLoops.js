@@ -16,9 +16,10 @@
 // OUR FIRST FOR LOOP
 // ======================================
 
-for (let num = 1; num <= 10; num += 1) {
-    console.log(num);
-}
+// for (let num = 1; num <= 10; num += 1) {
+//     console.log('Im in the loop body')
+//     console.log(num);
+// }
 
 // ======================================
 // MORE EXAMPLES OF FOR LOOPS!
@@ -32,9 +33,9 @@ for (let num = 1; num <= 10; num += 1) {
 //     console.log(i);
 // }
 
-// for (let i = 10; i <= 1000; i *= 10) {
-//     console.log(i);
-// }
+for (let i = 10; i <= 1000; i *= 10) {
+    console.log(i);
+}
 
 // DO NOT RUN THIS LOOP
 // INFINITE LOOP!! BAD!!
