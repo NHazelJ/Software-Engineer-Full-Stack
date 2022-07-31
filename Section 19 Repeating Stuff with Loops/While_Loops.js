@@ -4,6 +4,8 @@
 //     console.log(count)
 // }
 
+//==============================================================
+
 // const SECRET = "BabyHippo";
 
 // let guess = prompt("enter the secret code...");
@@ -12,6 +14,8 @@
 // }
 // console.log("CONGRATS YOU GOT THE SECRET!!!")
 
+//================================================================
+
 // let input = prompt("Hey, say something!")
 // while (true) {
 //     input = prompt(input);
@@ -19,11 +23,15 @@
 // }
 // console.log("OK YOU WIN!")
 
+//==========================================================
+
 // for (let i = 0; i < 1000; i++) {
 //     console.log(i);
 //     if (i === 100) break;
 // }
 
+//=============================================================
+//parseInt turns a string that has a number to a number
 let maximum = parseInt(prompt("Enter the maximum number!"));
 while (!maximum) {
     maximum = parseInt(prompt("Enter a valid number!"));
