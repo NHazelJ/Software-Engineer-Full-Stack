@@ -80,6 +80,20 @@ for (const li of lis){
     li.classList.toggle('highlight')
 }
 
+//100 Button Insanity Exercise
+
+//let p = document.createElement("p");
+// document.body.appendChild(p);
+
+
+
+for(let i = 0; i < 100; i++){
+    const newButton = document.createElement('button');
+    newButton.innerText = 'Hey';
+    const containerDiv = document.querySelector("#container");
+    containerDiv.appendChild(newButton);
+}
+
 
 
 
