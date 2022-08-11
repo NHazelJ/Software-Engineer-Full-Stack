@@ -86,11 +86,11 @@ for (const li of lis){
 // document.body.appendChild(p);
 
 
-
+const containerDiv = document.querySelector("#container");
 for(let i = 0; i < 100; i++){
     const newButton = document.createElement('button');
     newButton.innerText = 'Hey';
-    const containerDiv = document.querySelector("#container");
+    
     containerDiv.appendChild(newButton);
 }
 
