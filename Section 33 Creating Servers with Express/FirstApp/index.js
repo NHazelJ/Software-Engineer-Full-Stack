@@ -10,7 +10,7 @@ const app = express();
 
 
 app.get('/', (req, res) => {
-    res.send('Welcome to the home page!')
+    res.send('Welcome to the home page!!!')
 })
 
 app.get('/r/:subreddit', (req, res) => {
