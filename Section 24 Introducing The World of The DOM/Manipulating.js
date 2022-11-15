@@ -1,7 +1,7 @@
 const allLinks = document.querySelectorAll('a');
 
 // for (let link of allLinks) {
-//     link.innerText = 'I AM A LINK!!!!'
+//     link.innerText = 'I AM A LINK!!!!' //This will change all anchor tagas to I AM LINK!!!!
 // }
 
 
@@ -93,7 +93,6 @@ for(let i = 0; i < 100; i++){
     
     containerDiv.appendChild(newButton);
 }
-
 
 
 
